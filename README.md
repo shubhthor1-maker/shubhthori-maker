@@ -1,65 +1,36 @@
-<h1 align="center">Hi, I'm Shubh 👋</h1>
+# Hi, I'm shubh
 
-<p align="center">
-  <b>AI & Automation Freelancer</b> · Building smart workflows with Python and n8n
-</p>
+I'm a beginner freelancer learning AI and automation, and I take on small projects on Upwork. I work with clients from India and abroad.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance%20Work-2ea44f?style=for-the-badge&logo=upwork&logoColor=white" alt="Open for Freelance Work" />
-</p>
+I'm here to learn as much as I can, build real things, and connect with people who are on the same path.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhthori-maker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shubhthori-maker?style=flat&logo=github&label=Followers" alt="Followers" />
-</p>
+![Open for freelance work](https://img.shields.io/badge/Open%20for-Freelance%20Work-2ea44f)
+![Open to collaborate](https://img.shields.io/badge/Open%20to-Team%20Collaboration-0e75b6)
+![Always learning](https://img.shields.io/badge/Always-Learning-8250df)
 
----
+## What I'm working on
 
-## 🚀 About Me
+- Building a personal AI agent that helps with freelance work: finding leads, drafting proposals and writing client replies
+- Practising Python scripts and n8n workflows, and uploading them here with a README for each
 
-I help businesses save time by automating repetitive work. I'm an early-career freelancer on **Upwork**, learning and building every day in **AI and automation**.
+## What I'm learning
 
-- 🔭 Currently building: AI agents and workflow automations
-- 🌱 Currently learning: Python, n8n, API integrations
-- 💼 Looking for: small automation, data-handling and AI-assistant projects
-- 📫 Reach me: [shubhthor1@gmail.com](mailto:shubhthor1@gmail.com)
+Python, n8n, API integrations, Git and GitHub. I'm open to learning anything that makes me better at building useful things.
 
-## 🛠️ Current Learning Stack
+## What I can help with
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+- Automating repetitive tasks with n8n workflows
+- Python scripts for simple data and file tasks
+- Setting up AI-assisted workflows using free and low-cost tools
 
-## 📊 GitHub Stats
+## Open to
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhthori-maker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhthori-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+-  **Freelance work**: small automation and AI projects
+-  **Working with teams**: happy to contribute to group projects and open source
+-  **Learning**: from mentors, reviews and feedback
+- 🌐 **Connecting**: meeting genuine, like-minded people in tech
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhthori-maker&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+## Contact
 
-## 🤝 Let's Work Together
-
-I'm open to freelance projects in:
-
-- ⚙️ Workflow automation (n8n)
-- 🐍 Python scripts and data tasks
-- 🤖 AI chatbot and assistant setups
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-ID">
-    <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Learning in public. Shipping a little every day. 🌱</i></p>
+- Email: shubhthor1@gmail.com
+  
